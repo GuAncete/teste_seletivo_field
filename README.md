@@ -62,8 +62,8 @@ Siga os passos abaixo para executar a aplicação completa.
 ### **2. Clone o Repositório**
 
 ```bash
-git clone <url-do-seu-repositorio>
-cd <pasta-do-projeto>
+git clone https://github.com/GuAncete/teste_seletivo_field.git
+cd teste_seletivo_field
 ```
 
 ### **3. Inicie o Backend (API NestJS)**
